@@ -1,0 +1,3 @@
+{  "type": "FeatureCollection", "name": "map1_powerxmer", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [
+{ "type": "Feature",  "properties": {  "JAEDType": "PowerXmer", "XmerID": "SSTRM-123.868761683474000-11.079444678134500", "FromBus": "SSTRM-123.868761683474000-11.079444678134500PRI", "ToBus": "SSTRM-123.868761683474000-11.079444678134500SEC", "Phase": "ABCN", "KVA": "10000", "KVp": "69", "KVs": "13.2", "percentZ": "8", "XpR": "12", "KW no-load": "7.3", "percentI": "0.2", "Brand": "", "Model": "", "Serial": "", "Configuration": "Delta-WyeGnd"}, "geometry": {  "type": "Point",  "coordinates": [ 123.868761683473, 11.0794446781345 ]  } }
+]}
