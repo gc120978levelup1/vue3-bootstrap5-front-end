@@ -1,7 +1,0 @@
-{  "type": "FeatureCollection", "name": "map1_subtranspole", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } }, "features": [
-{ "type": "Feature",  "properties": {  "JAEDType": "HVPole", "PoleID": "211212", "BusID": "HVPole-123.878577303937000-11.083909308178100", "Phase": "ABCN", "StructureType1": "TSS-1", "StructureType2": "122", "StructureType3": "121", "Height": "60", "PoleType": "Steel Pole"}, "geometry": {  "type": "Point",  "coordinates": [ 123.886402625282, 11.0781478312537 ]  } }
- , 
-{ "type": "Feature",  "properties": {  "JAEDType": "HVPole", "PoleID": "232323", "BusID": "HVPole-123.869549559364000-11.062899284443600", "Phase": "ABCN", "StructureType1": "TSS-1", "StructureType2": "2", "StructureType3": "2", "Height": "60", "PoleType": "Steel Pole"}, "geometry": {  "type": "Point",  "coordinates": [ 123.869549559363, 11.0628992844436 ]  } }
- , 
-{ "type": "Feature",  "properties": {  "JAEDType": "HVPole", "PoleID": "224", "BusID": "HVPole-123.905791850306000-11.077081050464400", "Phase": "ABCN", "StructureType1": "TSS-1", "StructureType2": "2", "StructureType3": "2", "Height": "60", "PoleType": "Steel Pole"}, "geometry": {  "type": "Point",  "coordinates": [ 123.905791850305, 11.0770810504643 ]  } }
-]}
