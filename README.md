@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## This is for GIS MApping Support for CEBECO-II
+## This is for GIS Mapping Support for CEBECO-II
 
 ## Recommended IDE Setup
 
